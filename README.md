@@ -22,7 +22,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_asimthaha/)
 
 📩 Email: asim.thahaazeez@gmail.com
-🕸️ Website: https://asimthaha.github.io./
+🕸️ Website: (https://asimthaha.github.io./)
 
 </th>
 </tr>
