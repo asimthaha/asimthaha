@@ -21,7 +21,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asimthaha/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_asimthaha/)
 
-Email: asim.thahaazeez@gmail.com
+📩 Email: asim.thahaazeez@gmail.com
+🕸️ Website: https://asimthaha.github.io./
 
 </th>
 </tr>
@@ -31,7 +32,7 @@ Email: asim.thahaazeez@gmail.com
 
 ## 🗣 Languages
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimthaha&layout=compact&theme=dark" alt="Yash's Top Langs" height="200">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimthaha&layout=compact&theme=dark" alt="Asim Thaha's Top Langs" height="200">
 
 [![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
