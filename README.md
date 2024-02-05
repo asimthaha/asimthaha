@@ -9,13 +9,14 @@
 🌱 I'm currently trying to learn AI/ML, Data Science. <br>
 📖 Learning Computer Applications in academics. <br>
 📫 Reach me through my socials ———————————⟶
+
 </th>
 
 <th>
 
 # 🔗 Socials
 
-[![GitHub Yash Pawar](https://img.shields.io/github/followers/yashppawar?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/asimthaha)
+[![GitHub Yash Pawar](https://img.shields.io/github/followers/asimthaha?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/asimthaha)
 [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asim.thahaazeez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asimthaha/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_asimthaha/)
@@ -30,7 +31,7 @@ Email: asim.thahaazeez@gmail.com
 
 ## 🗣 Languages
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashppawar&layout=compact&theme=dark" alt="Yash's Top Langs" height="200">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimthaha&layout=compact&theme=dark" alt="Yash's Top Langs" height="200">
 
 [![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
@@ -65,17 +66,16 @@ Email: asim.thahaazeez@gmail.com
 
 <p align="center">
     <div style="display: inline-block;margin: auto;">
-        <a href="https://github.com/yashppawar">
-            <img src="https://github-readme-stats.vercel.app/api?username=yashppawar&hide=issue&show_icons=true&theme=gotham" alt="Yash's Github Stats" height="160">
-    	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashppawar&theme=onedark&count_private=true&theme=gotham" height=160>
-            <!-- [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashppawar&hide=issues&show_icons=true&theme=darcula)](https://github.com/yashppawar) -->
+        <a href="https://github.com/asimthaha">
+            <img src="https://github-readme-stats.vercel.app/api?username=asimthaha&hide=issue&show_icons=true&theme=gotham" alt="Asim Thaha's Github Stats" height="160">
+    	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimthaha&theme=onedark&count_private=true&theme=gotham" height=160>
+            <!-- [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=asimthaha&hide=issues&show_icons=true&theme=darcula)](https://github.com/asimthaha) -->
         </a>
     </div>
 </p>
 
 <p align="center">
-    <a href="https://github.com/yashppawar">
-    	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=yashppawar&bg_color=0C1014&color=2AA789&line=2AA790&point=fff&area=2AA789">
+    <a href="https://github.com/asimthaha">
+    	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=asimthaha&bg_color=0C1014&color=2AA789&line=2AA790&point=fff&area=2AA789">
     </a>
 </p>
-<!-- What's happening with this contributions count?? -->
