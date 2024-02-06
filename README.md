@@ -96,6 +96,6 @@
 
 <p align="center">
     <a href="https://github.com/asimthaha">
-    	[![Asim Thaha's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asimthaha)](https://github.com/asimthaha/github-readme-stats)
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asimthaha&hide=issue&show_icons=true&theme=dark#gh-dark-mode-only" alt="Asim Thaha's Github Stats" height="200">
     </a>
 </p>
