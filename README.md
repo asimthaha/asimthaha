@@ -90,6 +90,7 @@
         <a href="https://github.com/asimthaha">
           <img src="https://github-readme-stats.vercel.app/api?username=asimthaha&hide=issue&show_icons=true&theme=dark#gh-dark-mode-only" alt="Asim Thaha's Github Stats" height="160">
     	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimthaha&theme=onedark&count_private=true&theme=dark#gh-dark-mode-only" height=160>
+          [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asimthaha)](https://github.com/asimthaha/github-readme-stats)
         </a>
     </div>
 </p>
