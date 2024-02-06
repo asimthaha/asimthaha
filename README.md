@@ -94,8 +94,3 @@
     </div>
 </p>
 
-<p align="center">
-    <a href="https://github.com/asimthaha">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asimthaha&hide=issue&show_icons=true&theme=dark#gh-dark-mode-only" alt="Asim Thaha's Github Stats" height="200">
-    </a>
-</p>
