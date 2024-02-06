@@ -90,6 +90,7 @@
         <a href="https://github.com/asimthaha">
           <img src="https://github-readme-stats.vercel.app/api?username=asimthaha&hide=issue&show_icons=true&theme=dark#gh-dark-mode-only" alt="Asim Thaha's Github Stats" height="160">
     	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimthaha&theme=onedark&count_private=true&theme=dark#gh-dark-mode-only" height=160>
+          ![asimthaha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=asimthaha&theme=vue-dark&hide_border=false)
           <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=asimthaha&hide=issue&show_icons=true&theme=dark#gh-dark-mode-only" alt="Asim Thaha's Github Stats" height="300">-->
         </a>
     </div>
