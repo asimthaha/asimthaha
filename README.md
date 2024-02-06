@@ -96,6 +96,6 @@
 
 <p align="center">
     <a href="https://github.com/asimthaha">
-    	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=asimthaha&bg_color=0C1014&color=2AA789&line=2AA790&point=fff&area=2AA789">
+    	[![Asim Thaha's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asimthaha)](https://github.com/asimthaha/github-readme-stats)
     </a>
 </p>
